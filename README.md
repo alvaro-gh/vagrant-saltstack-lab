@@ -16,7 +16,7 @@ Shell provisioning must be run twice, once to disable SELINUX (a reboot is neede
 
 Complete Steps:
 ```
-$ git clone https://github.com/mxdlx/vagrant-saltstack-lab
+$ git clone https://github.com/alvaro-gh/vagrant-saltstack-lab
 $ cd vagrant-saltstack-lab
 $ vagrant up
 
